@@ -11,7 +11,7 @@
 
 - 已安装Node.js
 - `tokens.txt` 文件包含token和refresh token，按以下步骤获取：
-- 打开litas仪表盘 [https://www.wallet.litas.io](https://www.wallet.litas.io/invite/zlkcyber)
+- 打开litas仪表盘 [https://www.wallet.litas.io](https://www.wallet.litas.io/)
 - 使用邮箱登录
 - 按F12打开开发者工具，找到Application选项卡
 - 在Local Storage中找到`token`和`refreshToken`并复制这两个值
